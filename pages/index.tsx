@@ -43,14 +43,14 @@ export default function Home() {
   </div>
 
   <div className="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-    <Link href="/freezers" className="cat-link text-bg-dark me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+    <Link href="/questions?product=freezer" className="cat-link text-bg-dark me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div className="my-3 py-3">
         <h2 className="display-5">Холодильники</h2>
         <p className="lead">And an even wittier subheading.</p>
       </div>
       <div className="bg-light shadow-sm mx-auto" style={{width: "80%", height: "300px", borderRadius: "21px 21px 0 0"}}></div>
     </Link>
-    <Link href="/freezers" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+    <Link href="/questions?product=cleaner" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div className="my-3 p-3">
         <h2 className="display-5">Пылесосы</h2>
         <p className="lead">And an even wittier subheading.</p>
@@ -60,14 +60,14 @@ export default function Home() {
   </div>
 
   <div className="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-    <Link href="/freezers" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+    <Link href="/questions?product=microwave" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div className="my-3 p-3">
         <h2 className="display-5">Микроволновые печи и духовки</h2>
         <p className="lead">And an even wittier subheading.</p>
       </div>
       <div className="bg-dark shadow-sm mx-auto" style={{width: "80%", height: "300px", borderRadius: "21px 21px 0 0"}}></div>
     </Link>
-    <Link href="/freezers" className="cat-link text-bg-primary me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+    <Link href="/questions?product=washer" className="cat-link text-bg-primary me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div className="my-3 py-3">
         <h2 className="display-5">Стиральные и сушильные машинки</h2>
         <p className="lead">And an even wittier subheading.</p>
@@ -77,14 +77,14 @@ export default function Home() {
   </div>
 
   <div className="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-    <Link href="/freezers" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+    <Link href="/questions?product=teapot" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div className="my-3 p-3">
         <h2 className="display-5">Чайники</h2>
         <p className="lead">And an even wittier subheading.</p>
       </div>
       <div className="bg-body shadow-sm mx-auto" style={{width: "80%", height: "300px", borderRadius: "21px 21px 0 0"}}></div>
     </Link>
-    <Link href="/freezers" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+    <Link href="/questions?product=multicooker" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div className="my-3 py-3">
         <h2 className="display-5">Мультиварки и скороварки</h2>
         <p className="lead">And an even wittier subheading.</p>
@@ -94,14 +94,14 @@ export default function Home() {
   </div>
 
   <div className="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-    <Link href="/freezers" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+    <Link href="/questions?product=dishwasher" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div className="my-3 p-3">
         <h2 className="display-5">Посудомоечные машины</h2>
         <p className="lead">And an even wittier subheading.</p>
       </div>
       <div className="bg-body shadow-sm mx-auto" style={{width: "80%", height: "300px", borderRadius: "21px 21px 0 0"}}></div>
     </Link>
-    <Link href="/freezers" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+    <Link href="/questions?product=tv" className="cat-link bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div className="my-3 py-3">
         <h2 className="display-5">Телевизоры</h2>
         <p className="lead">And an even wittier subheading.</p>
